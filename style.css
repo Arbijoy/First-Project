@@ -51,7 +51,7 @@
     
 }
 
-
+/* main sec: css start..... */
 
 .previous-year{
     display: flex;
@@ -90,7 +90,7 @@
     font-weight: 400;
     font-size: 16px;
     margin-bottom: 20px;
-    ppadding-right: 12rem;
+    padding-right: 12rem;
 }
 .my-plan{
     text-align: center;
@@ -141,6 +141,8 @@
     color: rgb(20, 131, 190);
     background: white;
 }
+/* Footer sec: css start..... */
+
 .footer-section{
     background-color: black;
     display: flex;
